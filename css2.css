@@ -1,0 +1,35 @@
+﻿@font-face {
+  font-family: 'Mitr';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/mitr/v6/pxiEypw5ucZF8ZcaFJA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mitr';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/mitr/v6/pxiLypw5ucZFyTs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mitr';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/mitr/v6/pxiEypw5ucZF8c8bFJA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mitr';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/mitr/v6/pxiEypw5ucZF8eMcFJA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mitr';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/mitr/v6/pxiEypw5ucZF8YcdFJA.ttf) format('truetype');
+}

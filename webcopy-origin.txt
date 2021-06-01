@@ -1,0 +1,52 @@
+Uri: https://pantherswap.com/
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Mitr:wght@300;400;500;600;700&display=swap
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\css2.css
+Content Type: text/css
+
+Uri: https://pantherswap.com/favicon.ico
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://pantherswap.com/logo.png
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\logo.png
+Content Type: image/png
+
+Uri: https://pantherswap.com/manifest.json
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-QCNVGVKGBF
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://pantherswap.com/static/js/7.8dd03c40.chunk.js
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\static\js\7.8dd03c40.chunk.js
+Content Type: application/javascript
+
+Uri: https://pantherswap.com/static/js/main.c1605da1.chunk.js
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\static\js\main.c1605da1.chunk.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/mitr/v6/pxiEypw5ucZF8ZcaFJA.ttf
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\s\mitr\v6\pxiEypw5ucZF8ZcaFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mitr/v6/pxiLypw5ucZFyTs.ttf
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\s\mitr\v6\pxiLypw5ucZFyTs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mitr/v6/pxiEypw5ucZF8c8bFJA.ttf
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\s\mitr\v6\pxiEypw5ucZF8c8bFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mitr/v6/pxiEypw5ucZF8eMcFJA.ttf
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\s\mitr\v6\pxiEypw5ucZF8eMcFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mitr/v6/pxiEypw5ucZF8YcdFJA.ttf
+File Name: C:\Users\k\Desktop\팬서 웹사이트\pantherswap.com\s\mitr\v6\pxiEypw5ucZF8YcdFJA.ttf
+Content Type: font/ttf
+
